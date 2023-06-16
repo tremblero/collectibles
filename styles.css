@@ -25,21 +25,35 @@ body {
     margin: 10px 0;
 }
 
-.card-container {
+.order-buttons {
     display: flex;
+    align-items: center;
     justify-content: center;
+    margin-bottom: 10px;
+}
+
+.order-buttons p {
+    margin-right: 10px;
+    color: #53524d;
+}
+
+.order-button {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+#card-container {
+    display: flex;
     flex-wrap: wrap;
-    padding: 20px;
+    justify-content: center;
 }
 
 .card {
     width: 300px;
-    background-color: #f1f1f1;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 20px;
     margin: 10px;
+    padding: 10px;
     text-align: center;
+    border: 1px solid #ccc;
 }
 
 .card img {
@@ -55,4 +69,9 @@ body {
 
 .card p {
     margin: 10px 0;
+}
+
+.card a {
+    text-decoration: none;
+    color: #53524d;
 }

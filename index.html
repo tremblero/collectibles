@@ -2,40 +2,30 @@
 <html>
 
 <head>
-    <title>Rolimons - ECS:R</title>
+    <title>Collectibles - ECS:R</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="icon" href="https://ecsrev.xyz/img/logo_R.svg" type="image/svg+xml">
 </head>
 
 <body>
     <div class="header">
         <div class="header-content">
-            <h1>Rolimons - ECS:R</h1>
-            <p>Welcome to the trading platform for ECS:R items!</p>
+            <h1>ECS:R</h1>
+            <p>All items and RAP</p>
+            <p>Last items update: June 16th @ 6:00 PM EST</p>
         </div>
     </div>
 
-    <div class="card-container">
-        <div class="card">
-            <h2>Item 1</h2>
-            <img src="https://ecsrev.xyz//images/thumbnails/8f74cc419c68af494bc886ea6fc2c275e261c16c78137e826841535a474d54ac.png"
-                alt="Item 1">
-            <p>Description of Item 1.</p>
-        </div>
-
-        <div class="card">
-            <h2>Item 2</h2>
-            <img src="https://ecsrev.xyz//images/thumbnails/8f74cc419c68af494bc886ea6fc2c275e261c16c78137e826841535a474d54ac.png"
-                alt="Item 2">
-            <p>Description of Item 2.</p>
-        </div>
-
-        <div class="card">
-            <h2>Item 3</h2>
-            <img src="https://ecsrev.xyz//images/thumbnails/8f74cc419c68af494bc886ea6fc2c275e261c16c78137e826841535a474d54ac.png"
-                alt="Item 3">
-            <p>Description of Item 3.</p>
-        </div>
+    <div class="order-buttons">
+        <p>Order by:</p>
+        <button id="rap-button" class="order-button">RAP</button>
+        <button id="resales-button" class="order-button">RESALES</button>
+        <button id="name-button" class="order-button">NAME</button>
     </div>
+
+    <div id="card-container">
+    </div>
+    <script src="index.js"></script>
 </body>
 
 </html>
