@@ -9,7 +9,7 @@ let collectibles = [
     RAP: 5251,
     Resales: 1,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/44e1c2457c0c5e6ac543caa0089ccf620f5d73846a2f4556d76c64a770a1ab65.png",
+      "/images/thumbnails/44e1c2457c0c5e6ac543caa0089ccf620f5d73846a2f4556d76c64a770a1ab65.png",
   },
   {
     AssetId: 4009,
@@ -19,7 +19,7 @@ let collectibles = [
     RAP: 4000,
     Resales: 2,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/6d18e1aaf8cc91a187bab2b59242ad560011a4517adb2d496acfad231c760ad0.png",
+      "/images/thumbnails/6d18e1aaf8cc91a187bab2b59242ad560011a4517adb2d496acfad231c760ad0.png",
   },
   {
     AssetId: 6319,
@@ -28,7 +28,7 @@ let collectibles = [
     RAP: 3080,
     Resales: 8,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/6d10d99bf84358fc7615d36d4d7f8463466813ee7a3970868f830d0328f52f9b.png",
+      "/images/thumbnails/6d10d99bf84358fc7615d36d4d7f8463466813ee7a3970868f830d0328f52f9b.png",
   },
   {
     AssetId: 8790,
@@ -38,7 +38,7 @@ let collectibles = [
     RAP: 2069,
     Resales: 10,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/4a23d36c386c26dafa9a5c9c326cec1b28303603ba712ba70cb6dea437721da9.png",
+      "/images/thumbnails/4a23d36c386c26dafa9a5c9c326cec1b28303603ba712ba70cb6dea437721da9.png",
   },
   {
     AssetId: 4068,
@@ -47,7 +47,7 @@ let collectibles = [
     RAP: 2062,
     Resales: 5,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/0b59613a7bdceb77eb0de020bde365e437eaf888746afcce4349abe678a0b052.png",
+      "/images/thumbnails/0b59613a7bdceb77eb0de020bde365e437eaf888746afcce4349abe678a0b052.png",
   },
   {
     AssetId: 23685,
@@ -56,7 +56,7 @@ let collectibles = [
     RAP: 2047,
     Resales: 9,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/a9f6a934ce070a990cc0a634c1ceb26e586a49f9e28fc9aaed364901bac7caa4.png",
+      "/images/thumbnails/a9f6a934ce070a990cc0a634c1ceb26e586a49f9e28fc9aaed364901bac7caa4.png",
   },
   {
     AssetId: 27154,
@@ -65,7 +65,7 @@ let collectibles = [
     RAP: 1950,
     Resales: 3,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/0cb3a963e60ddec4fbd7f1144b253160a714074171f86ca25cb9dd2b4208b7d8.png",
+      "/images/thumbnails/0cb3a963e60ddec4fbd7f1144b253160a714074171f86ca25cb9dd2b4208b7d8.png",
   },
   {
     AssetId: 24601,
@@ -74,7 +74,7 @@ let collectibles = [
     RAP: 1700,
     Resales: 3,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/e1df7939f6a42c4f54c7b52b51c6500ce618b2b2fbe960e1bf017a26f7fbf17e.png",
+      "/images/thumbnails/e1df7939f6a42c4f54c7b52b51c6500ce618b2b2fbe960e1bf017a26f7fbf17e.png",
   },
   {
     AssetId: 3769,
@@ -84,7 +84,7 @@ let collectibles = [
     RAP: 1621,
     Resales: 20,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/97ea8a5a2f54f826c6a9ddf0934451f3d25de085501844ff2df4ab45f7a9c2b1.png",
+      "/images/thumbnails/97ea8a5a2f54f826c6a9ddf0934451f3d25de085501844ff2df4ab45f7a9c2b1.png",
   },
   {
     AssetId: 24621,
@@ -93,7 +93,7 @@ let collectibles = [
     RAP: 1604,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/ebb242212a634bfcaf17c63a74eda6b4a1be3027b280b315b5f1113eb4b2fb46.png",
+      "/images/thumbnails/ebb242212a634bfcaf17c63a74eda6b4a1be3027b280b315b5f1113eb4b2fb46.png",
   },
   {
     AssetId: 27084,
@@ -102,7 +102,7 @@ let collectibles = [
     RAP: 1583,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/c00c8f1ccce2a012f36ed1c1eca955a10ef47f22a70671c36f59daaa52ed43f4.png",
+      "/images/thumbnails/c00c8f1ccce2a012f36ed1c1eca955a10ef47f22a70671c36f59daaa52ed43f4.png",
   },
   {
     AssetId: 21294,
@@ -112,7 +112,7 @@ let collectibles = [
     RAP: 1513,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/f6b3b369f2c416354bd4d1f7fe328aa25b10e697623d04690541702497e77be6.png",
+      "/images/thumbnails/f6b3b369f2c416354bd4d1f7fe328aa25b10e697623d04690541702497e77be6.png",
   },
   {
     AssetId: 27992,
@@ -122,7 +122,7 @@ let collectibles = [
     RAP: 1484,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/d4b367407b31e39adc6e7ae9d8c967487a94c8dfcb40d09f9bc20670f37c90ee.png",
+      "/images/thumbnails/d4b367407b31e39adc6e7ae9d8c967487a94c8dfcb40d09f9bc20670f37c90ee.png",
   },
   {
     AssetId: 11791,
@@ -132,7 +132,7 @@ let collectibles = [
     RAP: 1403,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/ff7cd542bf50e6552044b1c87d2c0b0aa9760e679af1c5ebe0f560b3842aa642.png",
+      "/images/thumbnails/ff7cd542bf50e6552044b1c87d2c0b0aa9760e679af1c5ebe0f560b3842aa642.png",
   },
   {
     AssetId: 13715,
@@ -142,7 +142,7 @@ let collectibles = [
     RAP: 1390,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/7fd1b9bd36e91ea3eebaa8d372d0ea23c14a67bfd409a298b7de78a9ca781b48.png",
+      "/images/thumbnails/7fd1b9bd36e91ea3eebaa8d372d0ea23c14a67bfd409a298b7de78a9ca781b48.png",
   },
   {
     AssetId: 22278,
@@ -151,7 +151,7 @@ let collectibles = [
     RAP: 1378,
     Resales: 7,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/26bae0f148860212545f9c1bf2675f537b287da3a0514a59392bab44ff12bed0.png",
+      "/images/thumbnails/26bae0f148860212545f9c1bf2675f537b287da3a0514a59392bab44ff12bed0.png",
   },
   {
     AssetId: 28668,
@@ -160,7 +160,7 @@ let collectibles = [
     RAP: 1212,
     Resales: 3,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/8f74cc419c68af494bc886ea6fc2c275e261c16c78137e826841535a474d54ac.png",
+      "/images/thumbnails/8f74cc419c68af494bc886ea6fc2c275e261c16c78137e826841535a474d54ac.png",
   },
   {
     AssetId: 21705,
@@ -170,7 +170,7 @@ let collectibles = [
     RAP: 1212,
     Resales: 8,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/b65507bcfce23cebc3ac15dc1272c42cffc78402515bfbadc7e91c6bf7980463.png",
+      "/images/thumbnails/b65507bcfce23cebc3ac15dc1272c42cffc78402515bfbadc7e91c6bf7980463.png",
   },
   {
     AssetId: 18885,
@@ -179,7 +179,7 @@ let collectibles = [
     RAP: 1204,
     Resales: 5,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/0cef01b157d8790187ff3673e5eaa24ec7bf45ec847e20b12ec0a0e2427d467a.png",
+      "/images/thumbnails/0cef01b157d8790187ff3673e5eaa24ec7bf45ec847e20b12ec0a0e2427d467a.png",
   },
   {
     AssetId: 18486,
@@ -189,7 +189,7 @@ let collectibles = [
     RAP: 1187,
     Resales: 14,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/261e841e09b5d8a7d0d3834371074c7c42b531f2c44e882652becc1cfff350df.png",
+      "/images/thumbnails/261e841e09b5d8a7d0d3834371074c7c42b531f2c44e882652becc1cfff350df.png",
   },
   {
     AssetId: 12673,
@@ -199,7 +199,7 @@ let collectibles = [
     RAP: 1109,
     Resales: 10,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/2e82fab43b8a152ef970993533e1ed7caee15d796199029f163556fdad7e473d.png",
+      "/images/thumbnails/2e82fab43b8a152ef970993533e1ed7caee15d796199029f163556fdad7e473d.png",
   },
   {
     AssetId: 4410,
@@ -209,7 +209,7 @@ let collectibles = [
     RAP: 1100,
     Resales: 9,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/e11a889302727a9b27218b6af89cb5e70deef65311bd2fd226fef67c99542932.png",
+      "/images/thumbnails/e11a889302727a9b27218b6af89cb5e70deef65311bd2fd226fef67c99542932.png",
   },
   {
     AssetId: 4239,
@@ -219,7 +219,7 @@ let collectibles = [
     RAP: 1074,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/10b6a430263d1006fce06ab05050330b6435e8232359481f0260bab9a732f8e4.png",
+      "/images/thumbnails/10b6a430263d1006fce06ab05050330b6435e8232359481f0260bab9a732f8e4.png",
   },
   {
     AssetId: 23835,
@@ -228,7 +228,7 @@ let collectibles = [
     RAP: 1030,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/27dc329cde6a3d754751649b0d5c908b46796fbc9eff9f1023b534967ada9538.png",
+      "/images/thumbnails/27dc329cde6a3d754751649b0d5c908b46796fbc9eff9f1023b534967ada9538.png",
   },
   {
     AssetId: 12705,
@@ -238,7 +238,7 @@ let collectibles = [
     RAP: 1002,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/41cbf968174c0b0ed92808ea0d9cf9dff6f8dee9dbbf4fe8b64906b87644aaec.png",
+      "/images/thumbnails/41cbf968174c0b0ed92808ea0d9cf9dff6f8dee9dbbf4fe8b64906b87644aaec.png",
   },
   {
     AssetId: 19171,
@@ -248,7 +248,7 @@ let collectibles = [
     RAP: 925,
     Resales: 11,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/eec5fe17aabb0965989bb453c7ef3100eb2bd7cbf542685211046e1db486026f.png",
+      "/images/thumbnails/eec5fe17aabb0965989bb453c7ef3100eb2bd7cbf542685211046e1db486026f.png",
   },
   {
     AssetId: 3778,
@@ -258,7 +258,16 @@ let collectibles = [
     RAP: 919,
     Resales: 11,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/5b7d8acb699367d0fb0e7e6d71a658a11d3828da57e0bef568cd5806983cdd9e.png",
+      "/images/thumbnails/5b7d8acb699367d0fb0e7e6d71a658a11d3828da57e0bef568cd5806983cdd9e.png",
+  },
+  {
+    AssetId: 5567,
+    Name: "Subartic Commando",
+    Description: "BRR!",
+    RAP: 902,
+    Resales: 16,
+    Thumbnail:
+      "/images/thumbnails/8076e5bdc4389177bd4638a57ca5cf860fa374aff724a187233d199d4165a221.png",
   },
   {
     AssetId: 4260,
@@ -267,7 +276,7 @@ let collectibles = [
     RAP: 847,
     Resales: 5,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/d809acd36f3fd59a15ccce550c22123f72bf43609978f9e5be3af6c3ffcc7369.png",
+      "/images/thumbnails/d809acd36f3fd59a15ccce550c22123f72bf43609978f9e5be3af6c3ffcc7369.png",
   },
   {
     AssetId: 9207,
@@ -276,7 +285,7 @@ let collectibles = [
     RAP: 843,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/0788df96dedfe24b57cf8e1ad7e69321a8baff30b806542f927ba68fe673f3dc.png",
+      "/images/thumbnails/0788df96dedfe24b57cf8e1ad7e69321a8baff30b806542f927ba68fe673f3dc.png",
   },
   {
     AssetId: 6639,
@@ -285,7 +294,7 @@ let collectibles = [
     RAP: 831,
     Resales: 5,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/1ac33c4ba763c5dacb61da811c91dd03f83d4e7ef276e169b66b37a4c8fc51e9.png",
+      "/images/thumbnails/1ac33c4ba763c5dacb61da811c91dd03f83d4e7ef276e169b66b37a4c8fc51e9.png",
   },
   {
     AssetId: 4024,
@@ -295,7 +304,7 @@ let collectibles = [
     RAP: 807,
     Resales: 17,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/2bd24ead9e4c945e72d2281d60f8ba37144132c18cc4a844e771bf73503cc888.png",
+      "/images/thumbnails/2bd24ead9e4c945e72d2281d60f8ba37144132c18cc4a844e771bf73503cc888.png",
   },
   {
     AssetId: 4020,
@@ -305,7 +314,7 @@ let collectibles = [
     RAP: 796,
     Resales: 18,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/1cc3c16aebea754e0df03b4e87b0f3d128c0cb63fc014e1f139d7ed906524ba8.png",
+      "/images/thumbnails/1cc3c16aebea754e0df03b4e87b0f3d128c0cb63fc014e1f139d7ed906524ba8.png",
   },
   {
     AssetId: 10631,
@@ -315,16 +324,7 @@ let collectibles = [
     RAP: 779,
     Resales: 18,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/36a5ce3dd44fcd44b237c1cbc37cd0673fdf3f46e08827ed71c2eb83c05f6af6.png",
-  },
-  {
-    AssetId: 5567,
-    Name: "Subartic Commando",
-    Description: "BRR!",
-    RAP: 747,
-    Resales: 15,
-    Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/8076e5bdc4389177bd4638a57ca5cf860fa374aff724a187233d199d4165a221.png",
+      "/images/thumbnails/36a5ce3dd44fcd44b237c1cbc37cd0673fdf3f46e08827ed71c2eb83c05f6af6.png",
   },
   {
     AssetId: 24607,
@@ -334,7 +334,7 @@ let collectibles = [
     RAP: 700,
     Resales: 5,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/34ea11962a0f860a6addd51680e1d7449152ff63d5f521ce50db35d8efc95370.png",
+      "/images/thumbnails/34ea11962a0f860a6addd51680e1d7449152ff63d5f521ce50db35d8efc95370.png",
   },
   {
     AssetId: 4019,
@@ -344,7 +344,7 @@ let collectibles = [
     RAP: 689,
     Resales: 20,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/bf8856ef28f5726ef74b853bd1d6af9e86ab565bfa4a77e0227d077343cd116a.png",
+      "/images/thumbnails/bf8856ef28f5726ef74b853bd1d6af9e86ab565bfa4a77e0227d077343cd116a.png",
   },
   {
     AssetId: 12362,
@@ -354,7 +354,7 @@ let collectibles = [
     RAP: 675,
     Resales: 10,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/f87bd67f973f477cbf6187a091ac500bcb4e8283f9bdee5b0ad850347ea66763.png",
+      "/images/thumbnails/f87bd67f973f477cbf6187a091ac500bcb4e8283f9bdee5b0ad850347ea66763.png",
   },
   {
     AssetId: 4021,
@@ -364,7 +364,7 @@ let collectibles = [
     RAP: 649,
     Resales: 21,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/4d174562ad373a13e390872038b854ecc686f8e54653835c709bc0d2b2a60603.png",
+      "/images/thumbnails/4d174562ad373a13e390872038b854ecc686f8e54653835c709bc0d2b2a60603.png",
   },
   {
     AssetId: 3880,
@@ -373,7 +373,7 @@ let collectibles = [
     RAP: 603,
     Resales: 14,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/20c6286fc8a40406e489b8d783e3ba55785407615d2a18fddda2a7474a21baa1.png",
+      "/images/thumbnails/20c6286fc8a40406e489b8d783e3ba55785407615d2a18fddda2a7474a21baa1.png",
   },
   {
     AssetId: 5714,
@@ -382,7 +382,7 @@ let collectibles = [
     RAP: 600,
     Resales: 14,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/72f3d8961f5af534953e810f648530d91611047b7df35c219b8e6ef5ef8a3a4e.png",
+      "/images/thumbnails/72f3d8961f5af534953e810f648530d91611047b7df35c219b8e6ef5ef8a3a4e.png",
   },
   {
     AssetId: 6489,
@@ -391,7 +391,7 @@ let collectibles = [
     RAP: 590,
     Resales: 3,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/20befe55d4333c551ad8645c052082e41f467cd4df7ad40d1f7e6333365a1180.png",
+      "/images/thumbnails/20befe55d4333c551ad8645c052082e41f467cd4df7ad40d1f7e6333365a1180.png",
   },
   {
     AssetId: 4013,
@@ -401,7 +401,7 @@ let collectibles = [
     RAP: 575,
     Resales: 12,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/2f5633065a68181b9752160eea86ce8c1deb32ce6666241b3fedaa297cbf14ee.png",
+      "/images/thumbnails/2f5633065a68181b9752160eea86ce8c1deb32ce6666241b3fedaa297cbf14ee.png",
   },
   {
     AssetId: 16457,
@@ -411,7 +411,7 @@ let collectibles = [
     RAP: 552,
     Resales: 10,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/bab55b2b9b598adc87bffc341d95e082c121de8a71090f152b964cb0c3f9bceb.png",
+      "/images/thumbnails/bab55b2b9b598adc87bffc341d95e082c121de8a71090f152b964cb0c3f9bceb.png",
   },
   {
     AssetId: 11124,
@@ -421,7 +421,7 @@ let collectibles = [
     RAP: 548,
     Resales: 19,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/be950e387c0a7bed5aa2f61d9f82f9dc9059ad18c4dacb34eb76a5891c2ec356.png",
+      "/images/thumbnails/be950e387c0a7bed5aa2f61d9f82f9dc9059ad18c4dacb34eb76a5891c2ec356.png",
   },
   {
     AssetId: 4026,
@@ -431,7 +431,7 @@ let collectibles = [
     RAP: 537,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/e4e535a3c384f021f536120441fc4ae4d2be363ceba2fceffa36f9470fbbc4fb.png",
+      "/images/thumbnails/e4e535a3c384f021f536120441fc4ae4d2be363ceba2fceffa36f9470fbbc4fb.png",
   },
   {
     AssetId: 12887,
@@ -441,7 +441,7 @@ let collectibles = [
     RAP: 534,
     Resales: 13,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/7a224ed17e445d0115ea0a942cd3d21ba3abcb5cfab82ac39cc93c5fe70ea243.png",
+      "/images/thumbnails/7a224ed17e445d0115ea0a942cd3d21ba3abcb5cfab82ac39cc93c5fe70ea243.png",
   },
   {
     AssetId: 4718,
@@ -450,7 +450,7 @@ let collectibles = [
     RAP: 532,
     Resales: 11,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/5eb627ac89fda61a679aa62ada2b637d26d69a78f8a22c3f98f110d79d5021fb.png",
+      "/images/thumbnails/5eb627ac89fda61a679aa62ada2b637d26d69a78f8a22c3f98f110d79d5021fb.png",
   },
   {
     AssetId: 7362,
@@ -459,7 +459,7 @@ let collectibles = [
     RAP: 528,
     Resales: 8,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/86dec1d24e6786f42de3b6200ada677cea732c0e60191ce0e9132cd03ca21157.png",
+      "/images/thumbnails/86dec1d24e6786f42de3b6200ada677cea732c0e60191ce0e9132cd03ca21157.png",
   },
   {
     AssetId: 9673,
@@ -468,7 +468,7 @@ let collectibles = [
     RAP: 510,
     Resales: 23,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/da0d1b85c751ca06221daf9305ebb75b5106738d7be2b3acc7d16af4771a6953.png",
+      "/images/thumbnails/da0d1b85c751ca06221daf9305ebb75b5106738d7be2b3acc7d16af4771a6953.png",
   },
   {
     AssetId: 20301,
@@ -478,7 +478,7 @@ let collectibles = [
     RAP: 503,
     Resales: 10,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/102b8f0347d65d9998dec8682e7e14cfb7dcd0a66e77a1128dd3c4f8533d6e85.png",
+      "/images/thumbnails/102b8f0347d65d9998dec8682e7e14cfb7dcd0a66e77a1128dd3c4f8533d6e85.png",
   },
   {
     AssetId: 25778,
@@ -488,7 +488,7 @@ let collectibles = [
     RAP: 460,
     Resales: 12,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/105565cebcd84a2f5e6e97bfaa01e9f6c3a480c2451d0c3d2cff82dc3739940b.png",
+      "/images/thumbnails/105565cebcd84a2f5e6e97bfaa01e9f6c3a480c2451d0c3d2cff82dc3739940b.png",
   },
   {
     AssetId: 5319,
@@ -498,7 +498,7 @@ let collectibles = [
     RAP: 409,
     Resales: 12,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/348d22efb6438394dfab228d6f216d6debe017b96cca6033e1c55f984cba51db.png",
+      "/images/thumbnails/348d22efb6438394dfab228d6f216d6debe017b96cca6033e1c55f984cba51db.png",
   },
   {
     AssetId: 24247,
@@ -508,7 +508,7 @@ let collectibles = [
     RAP: 368,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/cae7c677de5a83d8347ade8b7e78e756445d56fb85b5d2624790bc39229548fd.png",
+      "/images/thumbnails/cae7c677de5a83d8347ade8b7e78e756445d56fb85b5d2624790bc39229548fd.png",
   },
   {
     AssetId: 4012,
@@ -518,7 +518,7 @@ let collectibles = [
     RAP: 360,
     Resales: 15,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/99267ed9276ae2519190233146020f6e0ae6ccc223506f43d26c2739f81adbfa.png",
+      "/images/thumbnails/99267ed9276ae2519190233146020f6e0ae6ccc223506f43d26c2739f81adbfa.png",
   },
   {
     AssetId: 16170,
@@ -528,7 +528,7 @@ let collectibles = [
     RAP: 350,
     Resales: 1,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/c06c92e0d0d7ffa0ae60bd9cba4c640b2f1ec546e11c8169cf10ce830e1f290f.png",
+      "/images/thumbnails/c06c92e0d0d7ffa0ae60bd9cba4c640b2f1ec546e11c8169cf10ce830e1f290f.png",
   },
   {
     AssetId: 12641,
@@ -537,7 +537,7 @@ let collectibles = [
     RAP: 349,
     Resales: 9,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/3ed8cf48f03c91c8d095dff7929b6658f5f0c3291c55810161d419680163a486.png",
+      "/images/thumbnails/3ed8cf48f03c91c8d095dff7929b6658f5f0c3291c55810161d419680163a486.png",
   },
   {
     AssetId: 6558,
@@ -546,7 +546,7 @@ let collectibles = [
     RAP: 334,
     Resales: 18,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/03782fc02390a03c86ce15062e3d16c6e3d2654ac5f8604fe12ba51cc514d5df.png",
+      "/images/thumbnails/03782fc02390a03c86ce15062e3d16c6e3d2654ac5f8604fe12ba51cc514d5df.png",
   },
   {
     AssetId: 4011,
@@ -555,7 +555,7 @@ let collectibles = [
     RAP: 317,
     Resales: 18,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/4ae28ad225f943a3d66ff1a80400a5241ffd7382abb68abae2fbac33db542ba2.png",
+      "/images/thumbnails/4ae28ad225f943a3d66ff1a80400a5241ffd7382abb68abae2fbac33db542ba2.png",
   },
   {
     AssetId: 8877,
@@ -564,7 +564,7 @@ let collectibles = [
     RAP: 299,
     Resales: 4,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/e9f9d8787e37f2e3d3f49f6254d4dab6fea35cd540ac96c2b9858529530d80d7.png",
+      "/images/thumbnails/e9f9d8787e37f2e3d3f49f6254d4dab6fea35cd540ac96c2b9858529530d80d7.png",
   },
   {
     AssetId: 15292,
@@ -574,7 +574,7 @@ let collectibles = [
     RAP: 289,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/01db3e1fa4a465fbecd899c9e075e33843553b0c8cb361993a80587fd8337e34.png",
+      "/images/thumbnails/01db3e1fa4a465fbecd899c9e075e33843553b0c8cb361993a80587fd8337e34.png",
   },
   {
     AssetId: 12610,
@@ -584,7 +584,7 @@ let collectibles = [
     RAP: 271,
     Resales: 8,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/961dbd6c39671d91ec4f033f7f2e217383c45864852998274e9f90a069fd338c.png",
+      "/images/thumbnails/961dbd6c39671d91ec4f033f7f2e217383c45864852998274e9f90a069fd338c.png",
   },
   {
     AssetId: 4010,
@@ -594,7 +594,7 @@ let collectibles = [
     RAP: 256,
     Resales: 19,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/d8640059a7c16d86ca68eff3da08aa7ecd7a9239b855ddcfeeea3bc76463d9d7.png",
+      "/images/thumbnails/d8640059a7c16d86ca68eff3da08aa7ecd7a9239b855ddcfeeea3bc76463d9d7.png",
   },
   {
     AssetId: 4023,
@@ -603,7 +603,7 @@ let collectibles = [
     RAP: 241,
     Resales: 6,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/3e9d793244f51018f1416a846fe9eb6fc4290e71cfd47ae1765adb55d1048cb4.png",
+      "/images/thumbnails/3e9d793244f51018f1416a846fe9eb6fc4290e71cfd47ae1765adb55d1048cb4.png",
   },
   {
     AssetId: 26579,
@@ -612,7 +612,7 @@ let collectibles = [
     RAP: 215,
     Resales: 8,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/ed3903f85431877d2786789de618fb37ac648c8a07e8c08a8d3f990a2e67a8eb.png",
+      "/images/thumbnails/ed3903f85431877d2786789de618fb37ac648c8a07e8c08a8d3f990a2e67a8eb.png",
   },
   {
     AssetId: 12005,
@@ -622,7 +622,7 @@ let collectibles = [
     RAP: 197,
     Resales: 24,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/534e25ce4b06dab4054da585c636feee2160d959e06c6ad500295fa603e5d035.png",
+      "/images/thumbnails/534e25ce4b06dab4054da585c636feee2160d959e06c6ad500295fa603e5d035.png",
   },
   {
     AssetId: 8167,
@@ -631,7 +631,7 @@ let collectibles = [
     RAP: 193,
     Resales: 16,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/3e9a68bf631e31c3fff557e4a471c7ad246c69bab75f271e4b37eed7a13cfd55.png",
+      "/images/thumbnails/3e9a68bf631e31c3fff557e4a471c7ad246c69bab75f271e4b37eed7a13cfd55.png",
   },
   {
     AssetId: 4095,
@@ -641,7 +641,7 @@ let collectibles = [
     RAP: 180,
     Resales: 7,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/0db6bdbb924a00593d8c98aee3e449d2e593f70767ec4ac6544ec5e9697973b2.png",
+      "/images/thumbnails/0db6bdbb924a00593d8c98aee3e449d2e593f70767ec4ac6544ec5e9697973b2.png",
   },
   {
     AssetId: 4162,
@@ -650,7 +650,7 @@ let collectibles = [
     RAP: 173,
     Resales: 15,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/2da921b23fb7f3d576ec94e3bbd47d04e865a1f4eb9170403fbb18cc02c94005.png",
+      "/images/thumbnails/2da921b23fb7f3d576ec94e3bbd47d04e865a1f4eb9170403fbb18cc02c94005.png",
   },
   {
     AssetId: 6977,
@@ -659,7 +659,7 @@ let collectibles = [
     RAP: 154,
     Resales: 17,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/d57ef22c5ab3a40a463b231f407291845fd192b9a86a976339c9e2d4438fd421.png",
+      "/images/thumbnails/d57ef22c5ab3a40a463b231f407291845fd192b9a86a976339c9e2d4438fd421.png",
   },
   {
     AssetId: 5219,
@@ -668,7 +668,7 @@ let collectibles = [
     RAP: 152,
     Resales: 9,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/8ddca3c44a2b94f22f0d39440dc90123a1715cde15fbe800fac35deaae992265.png",
+      "/images/thumbnails/8ddca3c44a2b94f22f0d39440dc90123a1715cde15fbe800fac35deaae992265.png",
   },
   {
     AssetId: 24304,
@@ -678,7 +678,7 @@ let collectibles = [
     RAP: 151,
     Resales: 15,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/3281f540de3763cdc04142791a96c542502eaee0a4d088419f2acdd983e42e54.png",
+      "/images/thumbnails/3281f540de3763cdc04142791a96c542502eaee0a4d088419f2acdd983e42e54.png",
   },
   {
     AssetId: 23609,
@@ -687,7 +687,7 @@ let collectibles = [
     RAP: 92,
     Resales: 17,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/8273d691f9aa4e9f5c28c52a85ac199ff21d128956804b3356a5dc9d8360fe70.png",
+      "/images/thumbnails/8273d691f9aa4e9f5c28c52a85ac199ff21d128956804b3356a5dc9d8360fe70.png",
   },
   {
     AssetId: 29563,
@@ -697,7 +697,7 @@ let collectibles = [
     RAP: 0,
     Resales: 0,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/a8753915226f559794c734f1a9e634b5d14359b3c463c44e201f1bbc4e7889a7.png",
+      "/images/thumbnails/a8753915226f559794c734f1a9e634b5d14359b3c463c44e201f1bbc4e7889a7.png",
   },
   {
     AssetId: 27994,
@@ -706,7 +706,7 @@ let collectibles = [
     RAP: 0,
     Resales: 0,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/02d19b8e402c29334325b9ff29a7373a185f815c33a4c7c9da6121dca50c98c2.png",
+      "/images/thumbnails/02d19b8e402c29334325b9ff29a7373a185f815c33a4c7c9da6121dca50c98c2.png",
   },
   {
     AssetId: 3848,
@@ -715,7 +715,7 @@ let collectibles = [
     RAP: 0,
     Resales: 0,
     Thumbnail:
-      "https://ecsrev.xyz/images/thumbnails/9c1ee85ae7aba84f3e7040dc21de78b167841e78d7484135bb4754ef113a85db.png",
+      "/images/thumbnails/9c1ee85ae7aba84f3e7040dc21de78b167841e78d7484135bb4754ef113a85db.png",
   },
 ];
 
