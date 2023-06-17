@@ -718,64 +718,161 @@ let collectibles = [
   },
 ];
 
-const cardContainer = document.getElementById("card-container");
-function commaifyNumber(_0x559fb8) {
-  return _0x559fb8
-    .toString()
-    .split("")
-    .reverse()
-    .map((_0x344c7f, _0x5147db) =>
-      _0x5147db !== 0 && _0x5147db % 3 === 0 ? _0x344c7f + "," : _0x344c7f
+function _0x5251() {
+  const _0x5179e5 = [
+    "</p>\x0a</div>\x0a\x20\x20",
+    "click",
+    "addEventListener",
+    "HighestRAP",
+    "1972uhlWxj",
+    "7528ZgGeib",
+    "innerHTML",
+    "reverse",
+    "/--\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22",
+    "querySelector",
+    "keys",
+    "2723aljGuI",
+    "61wLrXnl",
+    "912552LlpqiD",
+    "Resales",
+    "<div\x20class=\x22card\x22>\x0a\x20\x20\x20\x20<h2><a\x20href=\x22https://ecsrev.xyz/users/2588/profile\x22>???</a></h2>\x0a\x20\x20\x20<a\x20href=\x22https://ecsrev.xyz/users/2588/profile\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22img/skulliosis.png\x22\x20alt=\x22???\x22>\x0a\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20<p>RAP:\x201337</p>\x0a\x20\x20\x20\x20<p>HIGHEST\x20RAP:\x201337</p>\x0a\x20\x20\x20\x20<p>RESALES:\x201337</p>\x0a</div>\x0a\x20\x20",
+    "AssetId",
+    "</p>\x0a\x20\x20\x20\x20<p>HIGHEST\x20RAP:\x20",
+    "#resales-button",
+    "5117628yXtijD",
+    "#highest-button",
+    "5107960kQQViA",
+    "join",
+    "\x22>\x0a\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20<p>RAP:\x20",
+    "Thumbnail",
+    "forEach",
+    "3069849TfxZCB",
+    "localeCompare",
+    "Name",
+    "</p>\x0a\x20\x20\x20\x20<p>RESALES:\x20",
+    "sort",
+    "/--\x22>",
+    "map",
+    "RAP",
+    "8334414sUIitI",
+  ];
+  _0x5251 = function () {
+    return _0x5179e5;
+  };
+  return _0x5251();
+}
+const _0x4e2381 = _0x5380;
+(function (_0x543569, _0x55c660) {
+  const _0x5d2ade = _0x5380,
+    _0x48925b = _0x543569();
+  while (!![]) {
+    try {
+      const _0x4afe2c =
+        (parseInt(_0x5d2ade(0x1ed)) / 0x1) *
+          (parseInt(_0x5d2ade(0x208)) / 0x2) +
+        parseInt(_0x5d2ade(0x1fb)) / 0x3 +
+        parseInt(_0x5d2ade(0x1ee)) / 0x4 +
+        -parseInt(_0x5d2ade(0x1f6)) / 0x5 +
+        -parseInt(_0x5d2ade(0x1f4)) / 0x6 +
+        (parseInt(_0x5d2ade(0x1ec)) / 0x7) *
+          (parseInt(_0x5d2ade(0x209)) / 0x8) +
+        parseInt(_0x5d2ade(0x203)) / 0x9;
+      if (_0x4afe2c === _0x55c660) break;
+      else _0x48925b["push"](_0x48925b["shift"]());
+    } catch (_0x2941b1) {
+      _0x48925b["push"](_0x48925b["shift"]());
+    }
+  }
+})(_0x5251, 0xb202c);
+const cardContainer = document["getElementById"]("card-container");
+function _0x5380(_0xa53454, _0x53a813) {
+  const _0x5251f2 = _0x5251();
+  return (
+    (_0x5380 = function (_0x538027, _0x5b3b54) {
+      _0x538027 = _0x538027 - 0x1e9;
+      let _0x35b9e2 = _0x5251f2[_0x538027];
+      return _0x35b9e2;
+    }),
+    _0x5380(_0xa53454, _0x53a813)
+  );
+}
+function commaifyNumber(_0x3c943e) {
+  const _0x3262bf = _0x5380;
+  return _0x3c943e["toString"]()
+    ["split"]("")
+    [_0x3262bf(0x20b)]()
+    [_0x3262bf(0x201)]((_0x237630, _0x3d8531) =>
+      _0x3d8531 !== 0x0 && _0x3d8531 % 0x3 === 0x0 ? _0x237630 + "," : _0x237630
     )
-    .reverse()
-    .join("");
+    [_0x3262bf(0x20b)]()
+    [_0x3262bf(0x1f7)]("");
 }
-function makeCard(_0x3385d1) {
-  cardContainer.innerHTML +=
-    '<div class="card">\n    <h2><a href="https://ecsrev.xyz/catalog/' +
-    _0x3385d1.AssetId +
-    '/--">' +
-    _0x3385d1.Name +
-    '</a></h2>\n    <a href="https://ecsrev.xyz/catalog/' +
-    _0x3385d1.AssetId +
-    '/--">\n        <img src="' +
-    _0x3385d1.Thumbnail +
-    '" alt="' +
-    _0x3385d1.Name +
-    '">\n    </a>\n    <p>RAP: ' +
-    commaifyNumber(_0x3385d1.RAP) +
-    "</p>\n    <p>HIGHEST RAP: " +
-    commaifyNumber(_0x3385d1.HighestRAP) +
-    "</p>\n    <p>RESALES: " +
-    _0x3385d1.Resales +
-    "</p>\n</div>\n  ";
+function makeCard(_0x3c314d) {
+  const _0x3209e4 = _0x5380;
+  cardContainer["innerHTML"] +=
+    "<div\x20class=\x22card\x22>\x0a\x20\x20\x20\x20<h2><a\x20href=\x22https://ecsrev.xyz/catalog/" +
+    _0x3c314d[_0x3209e4(0x1f1)] +
+    _0x3209e4(0x200) +
+    _0x3c314d[_0x3209e4(0x1fd)] +
+    "</a></h2>\x0a\x20\x20\x20\x20<a\x20href=\x22https://ecsrev.xyz/catalog/" +
+    _0x3c314d[_0x3209e4(0x1f1)] +
+    _0x3209e4(0x1e9) +
+    _0x3c314d[_0x3209e4(0x1f9)] +
+    "\x22\x20alt=\x22" +
+    _0x3c314d[_0x3209e4(0x1fd)] +
+    _0x3209e4(0x1f8) +
+    commaifyNumber(_0x3c314d[_0x3209e4(0x202)]) +
+    _0x3209e4(0x1f2) +
+    commaifyNumber(_0x3c314d["HighestRAP"]) +
+    _0x3209e4(0x1fe) +
+    _0x3c314d[_0x3209e4(0x1ef)] +
+    _0x3209e4(0x204);
 }
-function reorder(_0x9e7939) {
-  cardContainer.innerHTML = "";
-  collectibles.sort(_0x9e7939);
-  Object.keys(collectibles).forEach((_0x5d2acf) => {
-    let _0x11c7ed = collectibles[_0x5d2acf];
-    makeCard(_0x11c7ed);
-  });
-  cardContainer.innerHTML +=
-    '<div class="card">\n    <h2><a href="https://ecsrev.xyz/users/2588/profile">???</a></h2>\n   <a href="https://ecsrev.xyz/users/2588/profile">\n        <img src="img/skulliosis.png" alt="???">\n    </a>\n    <p>RAP: 1337</p>\n    <p>HIGHEST RAP: 1337</p>\n    <p>RESALES: 1337</p>\n</div>\n  ';
+function reorder(_0x16e158) {
+  const _0x1d3aaa = _0x5380;
+  (cardContainer["innerHTML"] = ""),
+    collectibles[_0x1d3aaa(0x1ff)](_0x16e158),
+    Object[_0x1d3aaa(0x1eb)](collectibles)[_0x1d3aaa(0x1fa)]((_0x560d06) => {
+      let _0x249792 = collectibles[_0x560d06];
+      makeCard(_0x249792);
+    }),
+    (cardContainer[_0x1d3aaa(0x20a)] += _0x1d3aaa(0x1f0));
 }
-reorder((_0x4ccfec, _0x130981) => _0x130981.RAP - _0x4ccfec.RAP);
-document.querySelector("#rap-button").addEventListener("click", function () {
-  reorder((_0x3af430, _0x29b4de) => _0x29b4de.RAP - _0x3af430.RAP);
-});
-document
-  .querySelector("#resales-button")
-  .addEventListener("click", function () {
-    reorder((_0x5a5919, _0x226170) => _0x226170.Resales - _0x5a5919.Resales);
-  });
-document.querySelector("#name-button").addEventListener("click", function () {
-  reorder((_0x38348b, _0x53c04) => _0x38348b.Name.localeCompare(_0x53c04.Name));
-});
-document
-  .querySelector("#highest-button")
-  .addEventListener("click", function () {
-    reorder(
-      (_0x5a5919, _0x226170) => _0x226170.HighestRAP - _0x5a5919.HighestRAP
-    );
-  });
+reorder((_0x221f6b, _0x4746d1) => _0x4746d1["RAP"] - _0x221f6b["RAP"]),
+  document[_0x4e2381(0x1ea)]("#rap-button")[_0x4e2381(0x206)](
+    _0x4e2381(0x205),
+    function () {
+      reorder((_0x346ab8, _0x3536ae) => _0x3536ae["RAP"] - _0x346ab8["RAP"]);
+    }
+  ),
+  document[_0x4e2381(0x1ea)](_0x4e2381(0x1f3))[_0x4e2381(0x206)](
+    _0x4e2381(0x205),
+    function () {
+      const _0x2b25c8 = _0x4e2381;
+      reorder(
+        (_0x5272c6, _0x5d0db0) =>
+          _0x5d0db0[_0x2b25c8(0x1ef)] - _0x5272c6[_0x2b25c8(0x1ef)]
+      );
+    }
+  ),
+  document[_0x4e2381(0x1ea)]("#name-button")[_0x4e2381(0x206)](
+    _0x4e2381(0x205),
+    function () {
+      const _0x19dfcb = _0x4e2381;
+      reorder((_0x26644c, _0x54da97) =>
+        _0x26644c[_0x19dfcb(0x1fd)][_0x19dfcb(0x1fc)](
+          _0x54da97[_0x19dfcb(0x1fd)]
+        )
+      );
+    }
+  ),
+  document[_0x4e2381(0x1ea)](_0x4e2381(0x1f5))[_0x4e2381(0x206)](
+    _0x4e2381(0x205),
+    function () {
+      const _0x432e9a = _0x4e2381;
+      reorder(
+        (_0x3f5d71, _0x224212) =>
+          _0x224212["HighestRAP"] - _0x3f5d71[_0x432e9a(0x207)]
+      );
+    }
+  );
