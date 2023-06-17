@@ -32,6 +32,17 @@ body {
     margin-bottom: 10px;
 }
 
+.alert {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.alert p {
+    margin-right: 10px;
+    color: #53524d;
+}
+
 .order-buttons p {
     margin-right: 10px;
     color: #53524d;
