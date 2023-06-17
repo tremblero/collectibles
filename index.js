@@ -109,7 +109,7 @@ let collectibles = [
       "“The lions sing and the hills take flight. The moon by day, and the sun by night. Blind woman, deaf man, jackdaw fool. Let the Lord of Chaos rule.”",
     RAP: 1484,
     Resales: 4,
-    Thumbnail: "img/Telamonster: the Chaos Edge.png",
+    Thumbnail: "img/Telamonster_ the Chaos Edge.png",
   },
   {
     AssetId: 11791,
