@@ -33,7 +33,7 @@ body {
 }
 
 .alert {
-    background-color: #e8ce67;
+    background-color: #e1bd2a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -41,7 +41,7 @@ body {
 }
 .alert p {
     margin-right: 10px;
-    color: #53524d;
+    color: #ffffff;
 }
 
 .order-buttons p {
