@@ -1,4 +1,5 @@
 // Obfuscated, don't cheat! >:(
+    // col
 let collectibles = [
     {
         "AssetId": 29419,
@@ -802,6 +803,7 @@ let collectibles = [
         "Thumbnail": "img/Fiery Egg of Egg Testing.png"
     }
 ]
+//whydidntistchange
 
 function _0x5251() {
   const _0x5179e5 = [
