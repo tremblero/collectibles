@@ -3422,7 +3422,7 @@ var cardData = [
   {
     name: "Bia",
     copies: 1,
-    rap: 25000,
+    rap: o/c,
     rarity: "Iridescent",
     hoard: {
       user: "tremblero",
