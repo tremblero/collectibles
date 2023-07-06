@@ -246,7 +246,7 @@ var cardData = [
     rarity: "Uncommon",
     hoard: {
       user: "Bluay",
-      amount: 13041,
+      amount: 35133,
     },
   },
   {
