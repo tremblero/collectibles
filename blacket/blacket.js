@@ -3517,4 +3517,24 @@ rapButton.addEventListener("click", sortByRap);
 copiesButton.addEventListener("click", sortByCopies);
 nameButton.addEventListener("click", sortByName);
 
+const searchInput = document.getElementById("search-input");
+
+function search() {
+  const searchTerm = searchInput.value.toLowerCase();
+  const filteredData = cardData.filter((card) =>
+    card.name.toLowerCase().includes(searchTerm)
+  );
+
+  cardContainer.innerHTML = "";
+
+  filteredData.forEach((card) => {
+    const cardElement = createCard(card);
+    fragment.appendChild(cardElement);
+  });
+
+  cardContainer.appendChild(fragment);
+}
+
+searchInput.addEventListener("input", search);
+
 reorder((a, b) => b.rap - a.rap);

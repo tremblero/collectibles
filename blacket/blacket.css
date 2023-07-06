@@ -91,3 +91,14 @@ body {
     text-decoration: none;
     color: #fff;
 }
+
+.search-bar {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search-bar input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
