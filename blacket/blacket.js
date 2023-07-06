@@ -3332,17 +3332,17 @@ var cardData = [
   {
     name: "Party Pig",
     copies: 17,
-    rap: 350,
+    rap: 950,000,
     rarity: "Chroma",
     hoard: {
-      user: "Death",
+      user: "17",
       amount: 2,
     },
   },
   {
     name: "Lovely Ankha",
     copies: 24,
-    rap: 350,
+    rap: 950,000,
     rarity: "Chroma",
     hoard: {
       user: "Omar",
@@ -3352,7 +3352,7 @@ var cardData = [
   {
     name: "Festive Ankha",
     copies: 16,
-    rap: 350,
+    rap: "o/c",
     rarity: "Chroma",
     hoard: {
       user: "Omar",
@@ -3362,7 +3362,7 @@ var cardData = [
   {
     name: "Naughty Ankha",
     copies: 17,
-    rap: 350,
+    rap: "o/c",
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -3372,7 +3372,7 @@ var cardData = [
   {
     name: "Golden Harp",
     copies: 10,
-    rap: 1000,
+    rap: 175000,
     rarity: "Mystical",
     hoard: {
       user: "Abejonio",
@@ -3382,7 +3382,7 @@ var cardData = [
   {
     name: "Kraken",
     copies: 14,
-    rap: 1000,
+    rap: 150000,
     rarity: "Mystical",
     hoard: {
       user: "Abejonio",
@@ -3392,7 +3392,7 @@ var cardData = [
   {
     name: "Golden Seashell",
     copies: 10,
-    rap: 1000,
+    rap: "o/c",
     rarity: "Mystical",
     hoard: {
       user: "Abejonio",
@@ -3402,7 +3402,7 @@ var cardData = [
   {
     name: "Gold Doubloon",
     copies: 3,
-    rap: 1000,
+    rap: "o/c",
     rarity: "Mystical",
     hoard: {
       user: "tremblero",
@@ -3412,7 +3412,7 @@ var cardData = [
   {
     name: "Tropical Island",
     copies: 2,
-    rap: 25000,
+    rap: "o/c",
     rarity: "Iridescent",
     hoard: {
       user: "tremblero",
