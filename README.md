@@ -1,3 +1,5 @@
-# Don't cheat
+# For Blacket and ECS:R
 
-# Actually, figure out the promocode without looking at src :)
+# ecsrev.xyz
+
+# blacket.org
