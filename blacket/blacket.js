@@ -192,7 +192,7 @@ var cardData = [
   {
     name: "envi",
     copies: 79,
-    rap: 30000,
+    rap: 1000,
     rarity: "Mystical",
     hoard: {
       user: "Snowbby",
