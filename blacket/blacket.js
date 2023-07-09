@@ -3425,7 +3425,7 @@ var cardData = [
     rap: "O/C",
     rarity: "Mystical",
     hoard: {
-      user: "Fristic",
+      user: "tremblero",
       amount: 1,
     },
   },
@@ -3435,7 +3435,7 @@ var cardData = [
     rap: "O/C",
     rarity: "Iridescent",
     hoard: {
-      user: "Fristic",
+      user: "tremblero",
       amount: 1,
     },
   },
