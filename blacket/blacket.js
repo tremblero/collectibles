@@ -1121,7 +1121,7 @@ var cardData = [
   },
   {
     name: "Rainbow Astronaut",
-    copies: 69,
+    copies: 169,
     rap: 70000,
     rarity: "Mystical",
     hoard: {
