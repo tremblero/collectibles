@@ -732,7 +732,7 @@ var cardData = [
   {
     name: "Red Astronaut",
     copies: 655,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -772,7 +772,7 @@ var cardData = [
   {
     name: "Blue Astronaut",
     copies: 756,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Absentminded",
@@ -782,7 +782,7 @@ var cardData = [
   {
     name: "Cyan Astronaut",
     copies: 630,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -842,7 +842,7 @@ var cardData = [
   {
     name: "Lime Astronaut",
     copies: 631,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -852,7 +852,7 @@ var cardData = [
   {
     name: "Pink Astronaut",
     copies: 725,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "painbow",
@@ -882,7 +882,7 @@ var cardData = [
   {
     name: "Black Astronaut",
     copies: 654,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -902,7 +902,7 @@ var cardData = [
   {
     name: "Brown Astronaut",
     copies: 801,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Absentminded",
@@ -942,7 +942,7 @@ var cardData = [
   {
     name: "Green Astronaut",
     copies: 622,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -992,7 +992,7 @@ var cardData = [
   {
     name: "Chocolate Rabbit",
     copies: 1828,
-    rap: 300,
+    rap: 9000,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -1072,7 +1072,7 @@ var cardData = [
   {
     name: "Purple Astronaut",
     copies: 672,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Bluay",
@@ -1082,7 +1082,7 @@ var cardData = [
   {
     name: "Yellow Astronaut",
     copies: 636,
-    rap: 300,
+    rap: 600,
     rarity: "Chroma",
     hoard: {
       user: "Absentminded",
@@ -1122,7 +1122,7 @@ var cardData = [
   {
     name: "Rainbow Astronaut",
     copies: 69,
-    rap: 1000,
+    rap: 70000,
     rarity: "Mystical",
     hoard: {
       user: "Snowbby",
@@ -1256,7 +1256,7 @@ var cardData = [
     rarity: "Uncommon",
     hoard: {
       user: "Bluay",
-      amount: 39199,
+      amount: 39200,
     },
   },
   {
