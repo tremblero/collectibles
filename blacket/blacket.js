@@ -2,7 +2,7 @@ var cardData = [
     {
       name: "10k",
       copies: 1713,
-      rap: 300,
+      rap: 7000,
       rarity: "Chroma",
       hoard: {
         user: "Cerulean",
@@ -42,7 +42,7 @@ var cardData = [
     {
       name: "Doxy",
       copies: 663,
-      rap: 300,
+      rap: 1250,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -102,7 +102,7 @@ var cardData = [
     {
       name: "Dinah",
       copies: 86,
-      rap: 300,
+      rap: 12000,
       rarity: "Chroma",
       hoard: {
         user: "AlexThe1",
@@ -402,7 +402,7 @@ var cardData = [
     {
       name: "Agent Owl",
       copies: 461,
-      rap: 300,
+      rap: 750,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -472,7 +472,7 @@ var cardData = [
     {
       name: "Lemon Crab",
       copies: 567,
-      rap: 300,
+      rap: 700,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -482,7 +482,7 @@ var cardData = [
     {
       name: "Lucky Frog",
       copies: 704,
-      rap: 300,
+      rap: 600,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -492,7 +492,7 @@ var cardData = [
     {
       name: "Lunar Frog",
       copies: 368,
-      rap: 300,
+      rap: 35000,
       rarity: "Chroma",
       hoard: {
         user: "Dankance69",
@@ -512,7 +512,7 @@ var cardData = [
     {
       name: "March Hare",
       copies: 60,
-      rap: 300,
+      rap: 25000,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
