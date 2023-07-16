@@ -2525,8 +2525,8 @@ var cardData = [
       rap: 20,
       rarity: "Rare",
       hoard: {
-        user: "Snowbby",
-        amount: 967,
+        user: "Piotr",
+        amount: 4296,
       },
     },
     {
