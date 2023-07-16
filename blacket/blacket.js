@@ -2592,8 +2592,8 @@ var cardData = [
     {
       name: "Wise Owl",
       copies: 86,
-      rap: 75,
-      rarity: "Epic",
+      rap: 300,
+      rarity: "Chroma",
       hoard: {
         user: "17",
         amount: 12,
