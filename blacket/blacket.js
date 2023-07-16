@@ -2383,7 +2383,7 @@ var cardData = [
       name: "American Ankha",
       copies: 66,
       rap: 110000,
-      rarity: "Uncommon",
+      rarity: "Chroma",
       hoard: {
         user: "Abejonio",
         amount: 5,
