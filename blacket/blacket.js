@@ -2541,12 +2541,12 @@ var cardData = [
     },
     {
       name: "zastix",
-      copies: 811,
+      copies: 849,
       rap: 250,
       rarity: "Legendary",
       hoard: {
-        user: "painbow",
-        amount: 101,
+        user: "alicalol",
+        amount: 139,
       },
     },
     {
