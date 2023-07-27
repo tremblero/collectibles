@@ -1,4 +1,108 @@
 var cardData = [
+//Summer Pack
+    {
+      name: "Sand Bucket",
+      copies: 0,
+      rap: 5,
+      rarity: "Uncommon",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },
+    {
+      name: "Beach Ball",
+      copies: 0,
+      rap: 5,
+      rarity: "Uncommon",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },
+    {
+      name: "Plastic Shovel",
+      copies: 0,
+      rap: 5,
+      rarity: "Uncommon",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },
+    {
+      name: "Popsicle",
+      copies: 0,
+      rap: 5,
+      rarity: "Uncommon",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },    
+    {
+      name: "Life Float",
+      copies: 0,
+      rap: 20,
+      rarity: "Rare",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },   
+    {
+      name: "Conch Shell",
+      copies: 0,
+      rap: 20,
+      rarity: "Rare",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },   
+    {
+      name: "Surfboard",
+      copies: 0,
+      rap: 75,
+      rarity: "Epic",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },   
+    {
+      name: "Sand Castle",
+      copies: 0,
+      rap: 200,
+      rarity: "Legendary",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },   
+    {
+      name: "Coconut Cocktail",
+      copies: 0,
+      rap: 300,
+      rarity: "Chroma",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },   
+    {
+      name: "Tropical Pig",
+      copies: 0,
+      rap: 1000,
+      rarity: "Mystical",
+      hoard: {
+        user: "N/A",
+        amount: 0,
+      },
+    },
+
+    //Uncategorized
+    
     {
       name: "10k",
       copies: 1713,
