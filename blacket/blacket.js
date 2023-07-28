@@ -3544,32 +3544,12 @@ var cardData = [
       },
     },
     {
-      name: "Gorilla",
-      copies: 1,
-      rap: "O/C",
-      rarity: "Iridescent",
-      hoard: {
-        user: "Mixafyy",
-        amount: 1,
-      },
-    },
-    {
       name: "Bia",
       copies: 1,
       rap: "O/C",
       rarity: "Iridescent",
       hoard: {
         user: "tremblero",
-        amount: 1,
-      },
-    },
-    {
-      name: "Bob With a Job",
-      copies: 1,
-      rap: "O/C",
-      rarity: "Iridescent",
-      hoard: {
-        user: "bob_with_a_job",
         amount: 1,
       },
     },
