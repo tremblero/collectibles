@@ -3445,7 +3445,7 @@ var cardData = [
     },
     {
       name: "Golden Crab",
-      copies: 21,
+      copies: 26,
       rap: "O/C",
       rarity: "Chroma",
       hoard: {
@@ -3485,7 +3485,7 @@ var cardData = [
     },
     {
       name: "Festive Ankha",
-      copies: 18,
+      copies: 20,
       rap: "O/C",
       rarity: "Chroma",
       hoard: {
@@ -3495,7 +3495,7 @@ var cardData = [
     },
     {
       name: "Naughty Ankha",
-      copies: 17,
+      copies: 19,
       rap: "O/C",
       rarity: "Chroma",
       hoard: {
