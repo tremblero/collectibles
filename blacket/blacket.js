@@ -2446,7 +2446,7 @@ var cardData = [
     {
       name: "Rainbow Blook",
       copies: 39,
-      rap: 85000
+      rap: 85000,
       rarity: "Mystical",
       hoard: {
         user: "Omar",
@@ -2634,7 +2634,7 @@ var cardData = [
       },
     },
     {
-      name: "monkxy",
+      name: "Minesraft2",
       copies: 12906,
       rap: 5,
       rarity: "Uncommon",
