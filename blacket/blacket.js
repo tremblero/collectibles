@@ -110,7 +110,7 @@ var cardData = [
       rarity: "Chroma",
       hoard: {
         user: "Cerulean",
-        amount: 200,
+        amount: 190,
       },
     },
     {
@@ -2739,8 +2739,8 @@ var cardData = [
       rap: 5,
       rarity: "Uncommon",
       hoard: {
-        user: "_",
-        amount: 1978,
+        user: "alicialol",
+        amount: 2000,
       },
     },
     {
