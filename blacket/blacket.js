@@ -3549,7 +3549,7 @@ var cardData = [
       rap: "O/C",
       rarity: "Iridescent",
       hoard: {
-        user: "monkxy",
+        user: "Mixafyy",
         amount: 1,
       },
     },
