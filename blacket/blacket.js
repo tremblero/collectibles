@@ -93,7 +93,7 @@ var cardData = [
     {
       name: "Tropical Pig",
       copies: 0,
-      rap: 1000,
+      rap: 250000,
       rarity: "Mystical",
       hoard: {
         user: "N/A",
@@ -106,7 +106,7 @@ var cardData = [
     {
       name: "10k",
       copies: 1713,
-      rap: 7000,
+      rap: 5000,
       rarity: "Chroma",
       hoard: {
         user: "Cerulean",
@@ -206,7 +206,7 @@ var cardData = [
     {
       name: "Dinah",
       copies: 86,
-      rap: 12000,
+      rap: 7000,
       rarity: "Chroma",
       hoard: {
         user: "AlexThe1",
@@ -506,7 +506,7 @@ var cardData = [
     {
       name: "Agent Owl",
       copies: 461,
-      rap: 750,
+      rap: 600,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -576,7 +576,7 @@ var cardData = [
     {
       name: "Lemon Crab",
       copies: 567,
-      rap: 700,
+      rap: 600,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -586,7 +586,7 @@ var cardData = [
     {
       name: "Lucky Frog",
       copies: 704,
-      rap: 600,
+      rap: 550,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -616,7 +616,7 @@ var cardData = [
     {
       name: "March Hare",
       copies: 60,
-      rap: 30000,
+      rap: 45000,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -626,7 +626,7 @@ var cardData = [
     {
       name: "Master Elf",
       copies: 537,
-      rap: 750,
+      rap: 600,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -676,7 +676,7 @@ var cardData = [
     {
       name: "Dark Dragon",
       copies: 113,
-      rap: 25000,
+      rap: 20000,
       rarity: "Mystical",
       hoard: {
         user: "painbow",
@@ -686,7 +686,7 @@ var cardData = [
     {
       name: "Golden Gift",
       copies: 72,
-      rap: 22000,
+      rap: 17500,
       rarity: "Chroma",
       hoard: {
         user: "AlexThe1",
@@ -696,7 +696,7 @@ var cardData = [
     {
       name: "Lovely Frog",
       copies: 813,
-      rap: 600,
+      rap: 500,
       rarity: "Chroma",
       hoard: {
         user: "Absentminded",
@@ -736,7 +736,7 @@ var cardData = [
     {
       name: "Diamond Gift",
       copies: 63,
-      rap: 70000,
+      rap: 40000,
       rarity: "Mystical",
       hoard: {
         user: "Absentminded",
@@ -896,7 +896,7 @@ var cardData = [
     {
       name: "Donut Blobfish",
       copies: 569,
-      rap: 700,
+      rap: 650,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -1016,7 +1016,7 @@ var cardData = [
     {
       name: "Crimson Octopus",
       copies: 563,
-      rap: 700,
+      rap: 600,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -1066,7 +1066,7 @@ var cardData = [
     {
       name: "Rainbow Narwhal",
       copies: 583,
-      rap: 850,
+      rap: 750,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -1156,7 +1156,7 @@ var cardData = [
     {
       name: "Plasma Elemental",
       copies: 105,
-      rap: 12500,
+      rap: 10000,
       rarity: "Chroma",
       hoard: {
         user: "AlexThe1",
@@ -1526,7 +1526,7 @@ var cardData = [
     {
       name: "envi",
       copies: 93,
-      rap: 32000,
+      rap: 40000,
       rarity: "Mystical",
       hoard: {
         user: "AlexThe1",
@@ -1646,7 +1646,7 @@ var cardData = [
     {
       name: "Xotic",
       copies: 88,
-      rap: 60000,
+      rap: 50000,
       rarity: "Mystical",
       hoard: {
         user: "Absentminded",
@@ -1686,7 +1686,7 @@ var cardData = [
     {
       name: "Kraken",
       copies: 25,
-      rap: 150000,
+      rap: 90000,
       rarity: "Mystical",
       hoard: {
         user: "AlexThe1",
@@ -2286,7 +2286,7 @@ var cardData = [
     {
       name: "Golden Apple",
       copies: 39,
-      rap: 92000,
+      rap: 60000,
       rarity: "Mystical",
       hoard: {
         user: "Snowbby",
@@ -2396,7 +2396,7 @@ var cardData = [
     {
       name: "Forgotten Bot",
       copies: 54,
-      rap: 95000,
+      rap: 87000,
       rarity: "Mystical",
       hoard: {
         user: "Absentminded",
@@ -2406,7 +2406,7 @@ var cardData = [
     {
       name: "Golden Shovel",
       copies: 48,
-      rap: 475000,
+      rap: 350000,
       rarity: "Chroma",
       hoard: {
         user: "bussysus",
@@ -2436,7 +2436,7 @@ var cardData = [
     {
       name: "Rainbow Ankha",
       copies: 98,
-      rap: 50000,
+      rap: 45000,
       rarity: "Mystical",
       hoard: {
         user: "Abejonio",
@@ -2446,7 +2446,7 @@ var cardData = [
     {
       name: "Rainbow Blook",
       copies: 39,
-      rap: 110000,
+      rap: 85000
       rarity: "Mystical",
       hoard: {
         user: "Omar",
@@ -2486,7 +2486,7 @@ var cardData = [
     {
       name: "American Ankha",
       copies: 66,
-      rap: 110000,
+      rap: 95000,
       rarity: "Chroma",
       hoard: {
         user: "Abejonio",
@@ -2546,7 +2546,7 @@ var cardData = [
     {
       name: "Haunted Pumpkin",
       copies: 411,
-      rap: 950,
+      rap: 750,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -2644,7 +2644,7 @@ var cardData = [
       },
     },
     {
-      name: "zastix",
+      name: "monkxy",
       copies: 849,
       rap: 500,
       rarity: "Legendary",
@@ -2776,7 +2776,7 @@ var cardData = [
     {
       name: "Owl Sheriff",
       copies: 185,
-      rap: 3100,
+      rap: 2000,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -2806,7 +2806,7 @@ var cardData = [
     {
       name: "Ghost Cookie",
       copies: 217,
-      rap: 1900,
+      rap: 1500,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -2856,7 +2856,7 @@ var cardData = [
     {
       name: "Vampire Frog",
       copies: 159,
-      rap: 3500,
+      rap: 2500,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -2956,7 +2956,7 @@ var cardData = [
     {
       name: "Anaconda Wizard",
       copies: 164,
-      rap: 2500,
+      rap: 2300,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -3166,7 +3166,7 @@ var cardData = [
     {
       name: "Phantom King",
       copies: 169,
-      rap: 12000,
+      rap: 10000,
       rarity: "Mystical",
       hoard: {
         user: "painbow",
@@ -3266,7 +3266,7 @@ var cardData = [
     {
       name: "Green Apple",
       copies: 194,
-      rap: 3000,
+      rap: 1500,
       rarity: "Chroma",
       hoard: {
         user: "painbow",
@@ -3306,7 +3306,7 @@ var cardData = [
     {
       name: "Pumpkin King",
       copies: 167,
-      rap: 4500,
+      rap: 4000,
       rarity: "Chroma",
       hoard: {
         user: "Bluay",
@@ -3316,7 +3316,7 @@ var cardData = [
     {
       name: "Spring Ankha",
       copies: 75,
-      rap: 125000,
+      rap: 160000,
       rarity: "Chroma",
       hoard: {
         user: "Abejonio",
@@ -3366,7 +3366,7 @@ var cardData = [
     {
       name: "Blue Raspberry",
       copies: 53,
-      rap: 32000,
+      rap: 35000,
       rarity: "Chroma",
       hoard: {
         user: "Omar",
@@ -3376,7 +3376,7 @@ var cardData = [
     {
       name: "White Chocolate",
       copies: 174,
-      rap: 1900,
+      rap: 1500,
       rarity: "Chroma",
       hoard: {
         user: "Snowbby",
@@ -3386,7 +3386,7 @@ var cardData = [
     {
       name: "Treasure Chest",
       copies: 52,
-      rap: 850000,
+      rap: 500000,
       rarity: "Mystical",
       hoard: {
         user: "bussysus",
@@ -3416,7 +3416,7 @@ var cardData = [
     {
       name: "Black Opal",
       copies: 43,
-      rap: 80000,
+      rap: 85000,
       rarity: "Mystical",
       hoard: {
         user: "Snowbby",
@@ -3466,7 +3466,7 @@ var cardData = [
     {
       name: "Lovely Ankha",
       copies: 27,
-      rap: 950000,
+      rap: 1100000,
       rarity: "Chroma",
       hoard: {
         user: "Omar",
@@ -3549,7 +3549,7 @@ var cardData = [
       rap: "O/C",
       rarity: "Iridescent",
       hoard: {
-        user: "Mixafyy",
+        user: "monkxy",
         amount: 1,
       },
     },
