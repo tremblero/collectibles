@@ -3669,4 +3669,4 @@ function sortByRap() {
   
   searchInput.addEventListener("input", search);
   
-  reorder((a, b) => b.rap - a.rap);
+ sortByRap()
