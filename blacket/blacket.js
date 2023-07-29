@@ -3632,7 +3632,7 @@ var cardData = [
      } else if (a.rap !== "O/C" && b.rap === "O/C") {
        return 1;
      } else if (a.rap === "O/C" && b.rap === "O/C") {
-       return a.copies - b.copies;
+       return b.copies - a.copies;
      } else {
        return b.rap - a.rap;
      }
