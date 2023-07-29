@@ -1686,7 +1686,7 @@ var cardData = [
     {
       name: "Kraken",
       copies: 25,
-      rap: 90000,
+      rap: 80000,
       rarity: "Mystical",
       hoard: {
         user: "AlexThe1",
@@ -2486,7 +2486,7 @@ var cardData = [
     {
       name: "American Ankha",
       copies: 66,
-      rap: 95000,
+      rap: 90000,
       rarity: "Chroma",
       hoard: {
         user: "Abejonio",
