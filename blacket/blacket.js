@@ -155,12 +155,12 @@ var cardData = [
     },
     {
       name: "Frog",
-      copies: 1688,
+      copies: 4509,
       rap: 5,
       rarity: "Uncommon",
       hoard: {
-        user: "17",
-        amount: 105,
+        user: "tremblero",
+        amount: 2821,
       },
     },
     {
