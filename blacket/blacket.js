@@ -3625,26 +3625,25 @@ var cardData = [
     cardContainer.appendChild(fragment);
   }
   
- function sortByRap(cards) {
-   function compare(a, b) {
-     if (a.rap === "O/C" && b.rap !== "O/C") {
-       return -1;
-     } else if (a.rap !== "O/C" && b.rap === "O/C") {
-       return 1;
-     } else if (a.rap === "O/C" && b.rap === "O/C") {
-       return a.copies - b.copies;
-     } else {
-       return b.rap - a.rap;
-     }
-   }
-
-   reorder(compare)
- }
-
-
-  function sortByCopies() {
-    reorder((a, b) => b.copies - a.copies);
+function sortByRap() {
+  function compare(a, b) {
+    if (a.rap === "O/C" && b.rap !== "O/C") {
+      return -1;
+    } else if (a.rap !== "O/C" && b.rap === "O/C") {
+      return 1;
+    } else if (a.rap === "O/C" && b.rap === "O/C") {
+      return a.copies - b.copies;
+    } else {
+      return b.rap - a.rap;
+    }
   }
+
+  reorder(compare);
+}
+
+function sortByCopies() {
+  reorder((a, b) => b.copies - a.copies);
+}
   
   function sortByName() {
     reorder((a, b) => a.name.localeCompare(b.name));
