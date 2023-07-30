@@ -235,12 +235,12 @@ var cardData = [
     },
     {
       name: "Pizza",
-      copies: 585,
+      copies: 709,
       rap: 75,
       rarity: "Epic",
       hoard: {
-        user: "Bluay",
-        amount: 100,
+        user: "Waffle",
+        amount: 124,
       },
     },
     {
@@ -345,12 +345,12 @@ var cardData = [
     },
     {
       name: "Waffle",
-      copies: 2207,
+      copies: 2559,
       rap: 20,
       rarity: "Rare",
       hoard: {
         user: "Waffle",
-        amount: 596,
+        amount: 949,
       },
     },
     {
@@ -465,12 +465,12 @@ var cardData = [
     },
     {
       name: "Pancakes",
-      copies: 1008,
+      copies: 1560,
       rap: 20,
       rarity: "Rare",
       hoard: {
-        user: "U_U",
-        amount: 125,
+        user: "Waffle",
+        amount: 552,
       },
     },
     {
@@ -745,12 +745,12 @@ var cardData = [
     },
     {
       name: "French Toast",
-      copies: 775,
+      copies: 1081,
       rap: 75,
       rarity: "Epic",
       hoard: {
-        user: "Bluay",
-        amount: 100,
+        user: "Waffle",
+        amount: 306,
       },
     },
     {
