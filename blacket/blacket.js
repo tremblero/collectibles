@@ -2445,12 +2445,12 @@ var cardData = [
     },
     {
       name: "Rainbow Blook",
-      copies: 39,
+      copies: 36,
       rap: 85000,
       rarity: "Mystical",
       hoard: {
-        user: "Omar",
-        amount: 3,
+        user: "N/A",
+        amount: 0,
       },
     },
     {
@@ -3369,8 +3369,8 @@ var cardData = [
       rap: 35000,
       rarity: "Chroma",
       hoard: {
-        user: "Omar",
-        amount: 4,
+        user: "N/A",
+        amount: 0,
       },
     },
     {
@@ -3395,12 +3395,12 @@ var cardData = [
     },
     {
       name: "Ukraine Ankha",
-      copies: 48,
+      copies: 43,
       rap: 400000,
       rarity: "Chroma",
       hoard: {
-        user: "Omar",
-        amount: 5,
+        user: "tremblero",
+        amount: 3,
       },
     },
     {
@@ -3465,12 +3465,12 @@ var cardData = [
     },
     {
       name: "Lovely Ankha",
-      copies: 27,
+      copies: 22,
       rap: 1100000,
       rarity: "Chroma",
       hoard: {
-        user: "Omar",
-        amount: 5,
+        user: "Bluay",
+        amount: 2,
       },
     },
     {
