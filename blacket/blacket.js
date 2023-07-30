@@ -3638,7 +3638,7 @@ var cardData = [
      }
    }
 
-   cards.sort(compare);
+   reorder(compare)
  }
 
 
