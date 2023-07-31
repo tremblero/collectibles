@@ -92,7 +92,7 @@
     {
       "name": "Tropical Pig",
       "copies": 0,
-      "rap": 250000,
+      "rap": 120000,
       "rarity": "Mystical",
       "hoard": {
         "user": "N/A",
@@ -733,7 +733,7 @@
     {
       "name": "Diamond Gift",
       "copies": 63,
-      "rap": 40000,
+      "rap": 35000,
       "rarity": "Mystical",
       "hoard": {
         "user": "Absentminded",
@@ -853,7 +853,7 @@
     {
       "name": "Tim the Alien",
       "copies": 115,
-      "rap": 20000,
+      "rap": 18000,
       "rarity": "Mystical",
       "hoard": {
         "user": "painbow",
@@ -1223,7 +1223,7 @@
     {
       "name": "Rainbow Astronaut",
       "copies": 169,
-      "rap": 65000,
+      "rap": 55000,
       "rarity": "Mystical",
       "hoard": {
         "user": "Snowbby",
@@ -1523,7 +1523,7 @@
     {
       "name": "envi",
       "copies": 93,
-      "rap": 40000,
+      "rap": 35000,
       "rarity": "Mystical",
       "hoard": {
         "user": "AlexThe1",
@@ -1683,7 +1683,7 @@
     {
       "name": "Kraken",
       "copies": 25,
-      "rap": 80000,
+      "rap": 60000,
       "rarity": "Mystical",
       "hoard": {
         "user": "AlexThe1",
@@ -2283,7 +2283,7 @@
     {
       "name": "Golden Apple",
       "copies": 39,
-      "rap": 60000,
+      "rap": 55000,
       "rarity": "Mystical",
       "hoard": {
         "user": "Snowbby",
@@ -2363,7 +2363,7 @@
     {
       "name": "Spooky Ghost",
       "copies": 88,
-      "rap": 35000,
+      "rap": 20000,
       "rarity": "Mystical",
       "hoard": {
         "user": "JesusSaves",
@@ -2393,7 +2393,7 @@
     {
       "name": "Forgotten Bot",
       "copies": 54,
-      "rap": 87000,
+      "rap": 70000,
       "rarity": "Mystical",
       "hoard": {
         "user": "Absentminded",
@@ -2403,7 +2403,7 @@
     {
       "name": "Golden Shovel",
       "copies": 48,
-      "rap": 350000,
+      "rap": 320000,
       "rarity": "Chroma",
       "hoard": {
         "user": "bussysus",
@@ -2443,7 +2443,7 @@
     {
       "name": "Rainbow Blook",
       "copies": 36,
-      "rap": 85000,
+      "rap": 55000,
       "rarity": "Mystical",
       "hoard": {
         "user": "N/A",
@@ -2533,7 +2533,7 @@
     {
       "name": "Golden Shuriken",
       "copies": 36,
-      "rap": 110000,
+      "rap": 85000,
       "rarity": "Mystical",
       "hoard": {
         "user": "Snowbby",
@@ -2763,7 +2763,7 @@
     {
       "name": "M67 Grenade",
       "copies": 235,
-      "rap": 3500,
+      "rap": 3000,
       "rarity": "Chroma",
       "hoard": {
         "user": "Pablo",
@@ -2773,7 +2773,7 @@
     {
       "name": "Owl Sheriff",
       "copies": 185,
-      "rap": 2000,
+      "rap": 1500,
       "rarity": "Chroma",
       "hoard": {
         "user": "painbow",
@@ -2933,7 +2933,7 @@
     {
       "name": "Raccoon Bandit",
       "copies": 169,
-      "rap": 2000,
+      "rap": 1500,
       "rarity": "Chroma",
       "hoard": {
         "user": "painbow",
@@ -3053,7 +3053,7 @@
     {
       "name": "Ice Slime",
       "copies": 137,
-      "rap": 3500,
+      "rap": 3000,
       "rarity": "Chroma",
       "hoard": {
         "user": "namemom",
@@ -3163,7 +3163,7 @@
     {
       "name": "Phantom King",
       "copies": 169,
-      "rap": 10000,
+      "rap": 8500,
       "rarity": "Mystical",
       "hoard": {
         "user": "painbow",
@@ -3173,7 +3173,7 @@
     {
       "name": "Spooky Mummy",
       "copies": 107,
-      "rap": 9500,
+      "rap": 8000,
       "rarity": "Chroma",
       "hoard": {
         "user": "Bluay",
@@ -3193,7 +3193,7 @@
     {
       "name": "Chocolate Milk",
       "copies": 450,
-      "rap": 2500,
+      "rap": 2000,
       "rarity": "Chroma",
       "hoard": {
         "user": "painbow",
@@ -3243,7 +3243,7 @@
     {
       "name": "Ice Crab",
       "copies": 65,
-      "rap": 20000,
+      "rap": 18000,
       "rarity": "Chroma",
       "hoard": {
         "user": "RIC",
@@ -3263,7 +3263,7 @@
     {
       "name": "Green Apple",
       "copies": 194,
-      "rap": 1500,
+      "rap": 1200,
       "rarity": "Chroma",
       "hoard": {
         "user": "painbow",
@@ -3273,7 +3273,7 @@
     {
       "name": "Rose Quartz",
       "copies": 157,
-      "rap": 3000,
+      "rap": 2500,
       "rarity": "Chroma",
       "hoard": {
         "user": "Snowbby",
@@ -3313,7 +3313,7 @@
     {
       "name": "Spring Ankha",
       "copies": 75,
-      "rap": 160000,
+      "rap": 150000,
       "rarity": "Chroma",
       "hoard": {
         "user": "Abejonio",
@@ -3383,7 +3383,7 @@
     {
       "name": "Treasure Chest",
       "copies": 52,
-      "rap": 500000,
+      "rap": 425000,
       "rarity": "Mystical",
       "hoard": {
         "user": "bussysus",
@@ -3393,7 +3393,7 @@
     {
       "name": "Ukraine Ankha",
       "copies": 43,
-      "rap": 400000,
+      "rap": 360000,
       "rarity": "Chroma",
       "hoard": {
         "user": "Gogzi",
@@ -3413,7 +3413,7 @@
     {
       "name": "Black Opal",
       "copies": 43,
-      "rap": 85000,
+      "rap": 69420,
       "rarity": "Mystical",
       "hoard": {
         "user": "Snowbby",
@@ -3433,7 +3433,7 @@
     {
       "name": "Party Pig",
       "copies": 18,
-      "rap": 950000,
+      "rap": 1100000,
       "rarity": "Chroma",
       "hoard": {
         "user": "17",
@@ -3473,7 +3473,7 @@
     {
       "name": "Diamond Sword",
       "copies": 35,
-      "rap": 90000,
+      "rap": 65000,
       "rarity": "Mystical",
       "hoard": {
         "user": "painbow",
