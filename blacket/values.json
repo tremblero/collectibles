@@ -172,12 +172,12 @@
     },
     {
       "name": "Milk",
-      "copies": 996,
+      "copies": 1480,
       "rap": 5,
       "rarity": "Uncommon",
       "hoard": {
-        "user": "Bluay",
-        "amount": 100
+        "user": "Waffle",
+        "amount": 484
       }
     },
     {
@@ -262,12 +262,12 @@
     },
     {
       "name": "Toast",
-      "copies": 1011,
+      "copies": 1483,
       "rap": 5,
       "rarity": "Uncommon",
       "hoard": {
-        "user": "Bluay",
-        "amount": 100
+        "user": "Waffle",
+        "amount": 472
       }
     },
     {
@@ -282,12 +282,12 @@
     },
     {
       "name": "Cereal",
-      "copies": 931,
+      "copies": 1343,
       "rap": 5,
       "rarity": "Uncommon",
       "hoard": {
-        "user": "Bluay",
-        "amount": 100
+        "user": "Waffle",
+        "amount": 412
       }
     },
     {
@@ -462,12 +462,12 @@
     },
     {
       "name": "Pancakes",
-      "copies": 1560,
+      "copies": 2032,
       "rap": 20,
       "rarity": "Rare",
       "hoard": {
         "user": "Waffle",
-        "amount": 552
+        "amount": 1024
       }
     },
     {
