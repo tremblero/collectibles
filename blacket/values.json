@@ -2402,7 +2402,7 @@
     },
     {
       "name": "Golden Shovel",
-      "copies": 48,
+      "copies": 47,
       "rap": 320000,
       "rarity": "Chroma",
       "hoard": {
@@ -3382,7 +3382,7 @@
     },
     {
       "name": "Treasure Chest",
-      "copies": 52,
+      "copies": 51,
       "rap": 425000,
       "rarity": "Mystical",
       "hoard": {
