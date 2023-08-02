@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap%27);
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -19,7 +20,8 @@ body {
     text-align: center;
 }
 
-.header, h1 {
+.header,
+h1 {
     font-family: 'Titan One', cursive;
     margin: 0;
 }
@@ -30,18 +32,18 @@ h1 {
     margin-bottom: 10px;
 }
 
-
-
 .header p {
     margin: 7px 0;
     font-size: 1.3rem;
 }
+
 .order-buttons {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 10px;
 }
+
 .alert {
     background-color: #9D8317;
     display: flex;
@@ -49,23 +51,40 @@ h1 {
     justify-content: center;
     margin-bottom: 10px;
 }
+
 .alert p {
     margin-right: 10px;
     color: #ffffff;
 }
+
 .order-buttons p {
     margin-right: 10px;
     color: #fff;
 }
+
 .order-button {
     padding: 5px 10px;
     margin: 0 5px;
+    background-color: #2E2E2E;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #0D0D0D;
+    border: none;
+    color: #C3C3C3;
 }
+
+.order-button:active {
+    background-color: #464646;
+    box-shadow: 1px 3px 5px #2E2E2E;
+    transform: translateY(3px);
+    border: none;
+}
+
 #card-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .card {
     width: 300px;
     margin: 10px;
@@ -75,56 +94,45 @@ h1 {
     border-radius: 10px;
     background-color: #2f2f2f;
     color: #fff;
-
 }
+
 .card img {
     width: 80px;
     height: 90px;
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
 .card h2 {
     margin: 0;
 }
+
 .card p {
     font-weight: bold;
     margin: 10px 0;
 }
+
 .card a {
     text-decoration: none;
     color: #fff;
 }
+
 .search-bar {
     text-align: center;
     margin-top: 10px;
 }
+
 .search-bar input[type="text"] {
     padding: 5px;
     width: 200px;
     margin-bottom: 10px;
-}
-.order-button {
-    background-color: #2E2E2E;
-    border-radius: 10px;
-    box-shadow: 2px 2px 5px #0D0D0D;
-    border: none;
-    color: #C3C3C3;
-}
-#search-input {
-    height: 30px;
-    width: 550px;
     background-color: #2E2E2E;
     border-radius: 10px;
     color: #ffffff;
     border: none;
     box-shadow: 2px 2px 5px #0D0D0D;
 }
+
 ::placeholder {
     color: #BDBDBD;
-}
-.order-button:active {
-  background-color: #464646;
-  box-shadow: 1px 3px 5px #2E2E2E;
-  transform: translateY(3px);
-  border: none;
 }
