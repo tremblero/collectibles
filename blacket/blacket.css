@@ -20,6 +20,10 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none
+}
+
 .header,
 h1 {
     font-family: 'Titan One', cursive;
