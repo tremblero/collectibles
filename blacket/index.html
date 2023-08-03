@@ -2,44 +2,47 @@
 <html>
 
 <head>
-    <title>Collectibles - Blacket</title>
     <link rel="stylesheet" type="text/css" href="blacket.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&amp;family=Titan+One&amp;display=swap" rel="stylesheet">
+    
     <link rel="icon" href="https://blacket.org/content/logo.png" type="image/svg+xml">
+    <title>Collectibles - Blacket</title>
 </head>
 
 <body>
-   <div class="header">
-    <div class="header-content">
-        <h1>Blacket</h1>
-        <p>All blooks and values</p>
-        <p>
-            <a href="https://github.com/tremblero/collectibles/tree/main/blacket" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" alt="GitHub" style="width: 20px; height: 20px;">
-            </a>
-            Coded by tremblero <strong>|</strong> Values by Bluay & Kipley <strong>|</strong> Theme by DMRD
-        </p>
+    <div class="outerbackground">
+        <div class="background"></div>
     </div>
-</div>
+
+    <div class="header">
+        <img class="header-img" src="https://blacket.org/content/logo.png">
+        <div class="header-content">
+            <h1>Blacket Values</h1>
+            <p>Coded by tremblero <br> Values by Bluay & Kipley </p>
+        </div>
+    </div>
 
     <div class="alert">
-        <p><strong>NOTICE:</strong> Blook info (Copies) is not <strong>100%</strong> correct.</p>
+        <p><strong>WARNING:</strong> Some Blook info (copies) is not fully correct.</p>
     </div>
 
-    <div class="order-buttons">
-        <p>Order by:</p>
-        <button id="rap-button" class="order-button">RAP</button>
-        <button id="copies-button" class="order-button">COPIES</button>
-        <button id="name-button" class="order-button">NAME</button>
-        <p>O/C : Owner's Choice</p>
+    <div class="card-controls">
+        <div class="order-buttons">
+            <p>Order by:</p>
+            <button id="rap-button" class="order-button">RAP</button>
+            <button id="copies-button" class="order-button">COPIES</button>
+            <button id="name-button" class="order-button">NAME</button>
+            <br>
+        </div>
+
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Search...">
+        </div>
     </div>
+    <p class="oc-note">(O/C : Owner's Choice)</p>
  
-    <div class="search-bar">
-        <input type="text" id="search-input" placeholder="Search...">
-    </div>
+    <div class="card-container"></div>
 
-
-    <div id="card-container">
-    </div>
     <script src="blacket.js"></script>
 </body>
 
