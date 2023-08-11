@@ -157,3 +157,10 @@ h1 {
 ::placeholder {
     color: #BDBDBD;
 }
+
+.DMrD:after{
+    content:'Theme by DMRD';
+}
+.DMrD:hover:after{
+    content:'🕊️RIP DMRD🕊️';
+}
