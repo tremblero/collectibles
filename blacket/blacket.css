@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
-
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #1f1f1f;
@@ -12,34 +10,44 @@ body {
 
 body::-webkit-scrollbar {
     display: none;
-  }
+}
+
+.outerbackground {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: #4f4f4f;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.background {
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    top: 50%;
+    left: 50%;
+    background-size: 550px;
+    background-position: -100px -100px;
+    opacity: 0.1;
+    transform: translate(-50%, -50%) rotate(15deg);
+    background-image: url('./background.png');
+}
 
 .header {
     background-color: rgba(52, 53, 65, var(--tw-bg-opacity));
     padding: 20px;
-}
-
-.header-content {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    flex-direction: row;
+    gap: 10vw;
+    justify-content: center;
 }
 
-a {
-    text-decoration: none
-}
-
-.header,
-h1 {
-    font-family: 'Titan One', cursive;
+.header-content h1 {
     margin: 0;
-}
-
-h1 {
-    font-size: 3rem;
-    margin-top: 0;
-    margin-bottom: 10px;
+    font-size: 4em;
 }
 
 .header p {
@@ -47,22 +55,15 @@ h1 {
     font-size: 1.3rem;
 }
 
-.order-buttons {
+.header-img {
+    height: 30vh;
+}
+
+.header-content {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
-    margin-bottom: 10px;
-}
-
-.button-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.order-button {
-    margin: 5px;
+    text-align: center;
 }
 
 .alert {
@@ -70,7 +71,10 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 80%;
+    margin-left: 10%;
     margin-bottom: 10px;
+    border-radius: 100px;
 }
 
 .alert p {
@@ -78,26 +82,80 @@ h1 {
     color: #ffffff;
 }
 
+.card-controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10vw;
+}
+
+.order-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .order-buttons p {
-    margin-right: 10px;
-    color: #fff;
+    font-size: 3vh;
+    margin-right: 7px;
 }
 
 .order-button {
-    padding: 5px 10px;
+    padding: 5px 30px;
     margin: 0 5px;
     background-color: #2E2E2E;
     border-radius: 10px;
     box-shadow: 2px 2px 5px #0D0D0D;
-    border: none;
-    color: #C3C3C3;
+    border: 1px solid white;
+    color: white;
+    font-family: 'Nunito';
+    font-weight: 800;
+    height: 6.5vh;
+    transition: 0.25s;
+    cursor: pointer;
 }
 
 .order-button:active {
     background-color: #464646;
     box-shadow: 1px 3px 5px #2E2E2E;
-    transform: translateY(3px);
+    transform: scale(0.7);
+}
+
+.oc-note {
+    margin-right: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+.search-bar {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 30vw;
+    text-align: center;
+    display: flex;
+    height: 6.5vh;
+    justify-content: center;
+    background-color: #2E2E2E;
+    box-sizing: 2px 2px 5px #0D0D0D;
+}
+
+.search-bar input[type="text"] {
+    background: transparent;
+    text-align: center;
+    color: white;
     border: none;
+    width: 100%;
+    font-family: 'Nunito';
+    font-size: 3vh;
+}
+
+.search-bar input[type="text"]:focus {
+    outline: none;
+}
+
+::placeholder {
+    color: #BDBDBD;
 }
 
 #card-container {
@@ -112,7 +170,7 @@ h1 {
     padding: 10px;
     text-align: center;
     border: 2px solid #7C7C7C;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #2f2f2f;
     color: #fff;
 }
@@ -121,11 +179,14 @@ h1 {
     width: 80px;
     height: 90px;
     border-radius: 5px;
+    margin-top: 7px;
     margin-bottom: 10px;
 }
 
 .card h2 {
     margin: 0;
+    font-family: 'Titan One';
+    font-weight: 100;
 }
 
 .card p {
@@ -136,31 +197,4 @@ h1 {
 .card a {
     text-decoration: none;
     color: #fff;
-}
-
-.search-bar {
-    text-align: center;
-    margin-top: 10px;
-}
-
-.search-bar input[type="text"] {
-    padding: 5px;
-    width: 200px;
-    margin-bottom: 10px;
-    background-color: #2E2E2E;
-    border-radius: 10px;
-    color: #ffffff;
-    border: none;
-    box-shadow: 2px 2px 5px #0D0D0D;
-}
-
-::placeholder {
-    color: #BDBDBD;
-}
-
-.DMrD:after{
-    content:'Theme by DMRD';
-}
-.DMrD:hover:after{
-    content:'🕊️RIP DMRD🕊️';
 }
