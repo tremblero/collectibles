@@ -3540,26 +3540,6 @@
         }
     },
     {
-        "name": "Gorilla",
-        "copies": 1,
-        "rap": "O/C",
-        "rarity": "Iridescent",
-        "hoard": {
-            "user": "Bluay",
-            "amount": 1
-        }
-    },
-    {
-        "name": "God",
-        "copies": 1,
-        "rap": "O/C",
-        "rarity": "Iridescent",
-        "hoard": {
-            "user": "Unblooked",
-            "amount": 1
-        }
-    },
-    {
         "name": "Bia",
         "copies": 1,
         "rap": "O/C",
