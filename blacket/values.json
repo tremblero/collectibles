@@ -3413,11 +3413,11 @@
     {
         "name": "American Ankha",
         "copies": 62,
-        "rap": 1000,
-        "rarity": "Mystical",
+        "rap": 120000,
+        "rarity": "Chroma",
         "hoard": {
-            "user": "Abejonio",
-            "amount": 5
+            "user": "Bluay",
+            "amount": 11
         }
     },
     {
