@@ -51,12 +51,12 @@
     },
     {
         "name": "Frog",
-        "copies": 2611,
+        "copies": 3581,
         "rap": 5,
         "rarity": "Uncommon",
         "hoard": {
-            "user": "EpicBlack",
-            "amount": 197
+            "user": "starfruit",
+            "amount": 970
         }
     },
     {
@@ -3385,8 +3385,8 @@
         "rap": 125000,
         "rarity": "Chroma",
         "hoard": {
-            "user": "Bluay",
-            "amount": 4
+            "user": "Xyvelea",
+            "amount": 5
         }
     },
     {
