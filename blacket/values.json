@@ -31,12 +31,12 @@
     },
     {
         "name": "Crab",
-        "copies": 2595,
+        "copies": 17912,
         "rap": 5,
         "rarity": "Uncommon",
         "hoard": {
-            "user": "EpicBlack",
-            "amount": 211
+            "user": "RIC",
+            "amount": 15317
         }
     },
     {
@@ -351,12 +351,12 @@
     },
     {
         "name": "Old Boot",
-        "copies": 25298,
+        "copies": 52814,
         "rap": 5,
         "rarity": "Uncommon",
         "hoard": {
             "user": "bussysus",
-            "amount": 19394
+            "amount": 46910
         }
     },
     {
