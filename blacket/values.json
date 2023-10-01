@@ -3548,5 +3548,215 @@
             "user": "tremblero",
             "amount": 1
         }
-    }
+    },
+    {
+        "name": "Pocket Watch",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Hourglass",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Cuckoo Clock",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Calendar Scroll",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Analog Clock",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Astrolabe",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Rare",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Time Capsule",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Rare",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Orrey",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Rare",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Grandfather Clock",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Epic",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Clock Tower",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Legendary",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Time Stone",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Chroma",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Time Machine",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Mystical",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Deckhand",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Buccaneer",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Swashbuckler",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Treasure Map",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Seagull",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Uncommon",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Jolly Pirate",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Rare",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Captain Blackbeard",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Legendary",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Pirate Ship",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Rare",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
+    {
+        "name": "Sea Monster",
+        "copies": 0,
+        "rap": 0,
+        "rarity": "Epic",
+        "hoard": {
+            "user": "Nobody yet",
+            "amount": 1
+        }
+    },
 ]
