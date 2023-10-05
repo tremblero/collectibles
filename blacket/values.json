@@ -781,12 +781,12 @@
     },
     {
         "name": "Cyan Astronaut",
-        "copies": 808,
+        "copies": 993,
         "rap": 600,
         "rarity": "Chroma",
         "hoard": {
-            "user": "Bluay",
-            "amount": 100
+            "user": "Buenar",
+            "amount": 185
         }
     },
     {
